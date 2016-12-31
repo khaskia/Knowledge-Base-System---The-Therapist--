@@ -1,0 +1,13 @@
+F:\cs50\work\KBS\KBS\bin\Debug\KBS.exe.config
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.csprojResolveAssemblyReference.cache
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.MainForm.resources
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.Properties.Resources.resources
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.csproj.GenerateResource.Cache
+F:\cs50\work\KBS\KBS\bin\Debug\KBS.exe
+F:\cs50\work\KBS\KBS\bin\Debug\KBS.pdb
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.exe
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.pdb
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.TensionTest.resources
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.DepressionTest.resources
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.LazinessTest.resources
+F:\cs50\work\KBS\KBS\obj\Debug\KBS.ChapPage.resources
